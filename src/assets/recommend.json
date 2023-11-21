@@ -1,0 +1,14 @@
+[
+  {
+    "key": "chatgpt-Prompt-vn",
+    "desc": "Prompt được thu thập bởi chokipro ai (Ngoctuanai)",
+    "downloadUrl": "https://raw.githubusercontent.com/chokiproai/prompt/main/vi.json",
+    "url": "https://github.com/chokiproai/prompt/blob/main/vi.json"
+  },
+  {
+    "key": "chatgpt-Prompt-en",
+    "desc": "Prompt collected by chokipro ai (Ngoctuanai)",
+    "downloadUrl": "https://raw.githubusercontent.com/chokiproai/prompt/main/en.json",
+    "url": "https://github.com/chokiproai/prompt/blob/main/en.json"
+  }
+]
