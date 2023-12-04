@@ -16,7 +16,7 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://pnghive.com/core/images/full/chat-gpt-logo-png-1680406057.png',
-      name: 'GPT4',
+      name: 'ChatGPT',
       description: 'AI assistant',
     },
   }
